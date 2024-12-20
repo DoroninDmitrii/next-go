@@ -1,0 +1,2 @@
+docker compose up -d db - run docker compose;
+docker exec -it db psql -U postgres - access postgres inside docker;
